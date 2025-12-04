@@ -18,9 +18,9 @@ Este repositório consolida o aprendizado prático e teórico desenvolvido duran
 
 | Categoria | Ferramenta |
 | :--- | :--- |
-| *Modelagem* | BRModelo / Ferramentas CASE |
+| *Modelagem* | BRModelo |
 | *SGBD* | PostgreSQL / MySQL |
-| *Interface* | PgAdmin / Workbench |
+| *Interface* | PgAdmin  |
 | *Linguagem* | SQL |
 
 ---
@@ -33,12 +33,3 @@ Este repositório consolida o aprendizado prático e teórico desenvolvido duran
 | 📂 /normalizacao | Processos de normalização (1FN - 3FN) |
 | 📂 /scripts | Arquivos .sql (DDL e DML) |
 
----
-
-### 🤝 Autores
-
-Projeto desenvolvido colaborativamente por:
-
-
----
-Disciplina: Modelagem de Banco de Dados | UDF
